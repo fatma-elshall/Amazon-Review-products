@@ -8,6 +8,17 @@ In this project, we'll be analyzing a dataset of over 1,000 products listed on A
 
 This dataset includes details such as product name, category, price, rating, and user reviews . Our goal is to understand customer preferences, identify purchasing patterns, and make sentment analysis for these products .
 
+
+**Project links:**
+
+
+* Link dashboard:   https://lookerstudio.google.com/reporting/ed64891e-a7a7-4486-8f31-b3b1b8a6f898
+  
+* Link notebook on Kaggle: https://www.kaggle.com/code/fatmaelshall/amazon-reviews-sentment-analysis
+
+* Link dataset on kaggle .com : https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/
+
+
 **Steps included in this project (Data analysis process)**
 
 As we know before analysis and visualization process we should prepare the data(reading -exploration -cleaning-normalization & scaling-feature engineering-analysis -build model if we need)
@@ -27,12 +38,6 @@ In this project i followed these steps:
 5- Make sentment analysis for reviews with machine learning to extract positive & Negative reviews.
 
 6- Make a Dashboard to Summrize all the reasults Visually.
-
-* Link dashboard:   https://lookerstudio.google.com/reporting/ed64891e-a7a7-4486-8f31-b3b1b8a6f898
-  
-* Link notebook on Kaggle: https://www.kaggle.com/code/fatmaelshall/amazon-reviews-sentment-analysis
-
-* Link dataset on kaggle .com : https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/
 
 
 **Features in the data**
